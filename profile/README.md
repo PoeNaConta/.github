@@ -42,8 +42,8 @@ Bem-vindo ao **Põe na Conta**, uma solução web intuitiva para gestão finance
 ## 📌 Contexto do Projeto  
 
 Desenvolvido como projeto acadêmico por [Alex Lucena](
-Alexxx20), [Breno Lima](BrenoLima54), [Cláudio Crispim](
-claudi0jr), [Natália Araújo](nataliarauj) e [Matheus Barbosa](BarbosaNath), o **Põe na Conta** nasceu da necessidade de simplificar a organização financeira para usuários sem conhecimentos técnicos em finanças.  
+https://github.com/Alexxx20), [Breno Lima](https://github.com/BrenoLima54), [Cláudio Crispim](
+https://github.com/claudi0jr), [Natália Araújo](https://github.com/nataliarauj) e [Matheus Barbosa](https://github.com/BarbosaNath), o **Põe na Conta** nasceu da necessidade de simplificar a organização financeira para usuários sem conhecimentos técnicos em finanças.  
 
 
 ---
