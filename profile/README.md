@@ -34,7 +34,7 @@ Bem-vindo ao **Põe na Conta**, uma solução web intuitiva para gestão finance
 
 | **Frontend**               | **Backend**               | **Ferramentas**           |  
 |----------------------------|---------------------------|---------------------------|  
-| React + Vite               | Express.js (REST API)     | PostgreSQL (Tembo.io)     |  
+| React + Vite               | Express.js (REST API)     | PostgreSQL (Neon Console) |  
 | TypeScript                 | Node.js                   | GitHub Actions            |  
 | Storybook (UI Components)  |                           | Jira (Gestão de Projeto)  |  
 | Jest + Stryker (Testes)    |                           | Vercel (Hospedagem)       |  
